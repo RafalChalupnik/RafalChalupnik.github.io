@@ -118,33 +118,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Wroclaw University of Science and Technology
+        title: PhD Information and Communication Technology
         # caption: October 2020 - Present
         # sub_title: PhD Information and Communication Technology
         # quote: >
         #   October 2020 - Present
         description: | # this will include new lines to allow paragraphs
-          PhD Information and Communication Technology
+          Wroclaw University of Science and Technology
 
           *October 2020 - Present*
       - layout: left
-        title: Wroclaw University of Science and Technology
+        title: MSc Computer Systems Design
         # caption: October 2020 - Present
         # sub_title: PhD Information and Communication Technology
         # quote: >
         #   October 2020 - Present
         description: | # this will include new lines to allow paragraphs
-          MSc Computer Systems Design
+          Wroclaw University of Science and Technology
 
           *March 2019 - July 2020*
       - layout: left
-        title: Wroclaw University of Science and Technology
+        title: BSc Computer Science
         # caption: October 2020 - Present
         # sub_title: PhD Information and Communication Technology
         # quote: >
         #   October 2020 - Present
         description: | # this will include new lines to allow paragraphs
-          BSc Computer Science
+          Wroclaw University of Science and Technology
 
           *October 2015 - January 2019*
 
