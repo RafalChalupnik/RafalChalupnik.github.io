@@ -121,9 +121,12 @@ content:
         title: Wroclaw University of Science and Technology
         # caption: October 2020 - Present
         # sub_title: PhD Information and Communication Technology
-        quote: October 2020 - Present
+        # quote: >
+        #   October 2020 - Present
         description: | # this will include new lines to allow paragraphs
           PhD Information and Communication Technology
+
+          *October 2020 - Present (did it work?)*
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
