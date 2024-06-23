@@ -104,7 +104,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            The company is delivering sample management software to the biggest pharmaceutical companies in the world. I was responsible development and maintenance of the software, especially in terms of system integration (integration with vendors + developing REST APIs). Also, I've been responsible for the technical evaluation in the recruitment process and slightly engaged in company's IT administration.
+            The company is delivering sample management software to the biggest pharmaceutical companies in the world. I was responsible for development and maintenance of the software, especially in terms of system integration (integration with vendors + developing REST APIs). Also, I've been responsible for the technical evaluation in the recruitment process and slightly engaged in company's IT administration.
       - layout: left
         title: KRD BIG S.A.
         # link: boringcompany.com
