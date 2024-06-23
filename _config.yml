@@ -152,6 +152,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: 14th Asian Conference on Intelligent Information and Database Systems
+        caption: 2022
+        sub_title: Ho Chi Minh City, Vietnam
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          [**Using Brain-Computer Interface (BCI) and Artificial Intelligence for EEG Signal Analysis**](https://www.researchgate.net/publication/365678701_Using_Brain-Computer_Interface_BCI_and_Artificial_Intelligence_for_EEG_Signal_Analysis)
+
+          *Jakub Kurczak, Katarzyna Bialas, Rafal Chalupnik, Michal Kedziora*
+      - layout: left
         title: IEEE Transactions on Human-Machine Systems
         caption: 2022
         # quote: >
