@@ -152,9 +152,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: The 14th International Conference on Advances in Computer-Human Interactions
+        caption: 2021
+        sub_title: Nice, France
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          [**Correspondent Sensitive Encryption Standard (CSES) Algorithm in Insecure Communcation Channel**](https://www.researchgate.net/publication/333039085_Correspondent_Sensitive_Encryption_Standard_CSES_Algorithm_in_Insecure_Communication_Channel)
+
+          *Rafal Chalupnik, Michal Kedziora, Piotr Jozwiak, Ireneusz Jozwiak*
+      - layout: left
         title: DepCoS Conference
         caption: 2019
-        # sub_title: BSc Computer Science
+        sub_title: Brunow, Poland
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
