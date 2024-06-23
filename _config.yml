@@ -152,6 +152,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: IEEE Transactions on Human-Machine Systems
+        caption: 2022
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          [**Multifactor Authentication System Using Simplified EEG Brain–Computer Interface**](https://www.researchgate.net/publication/362819463_Multifactor_Authentication_System_Using_Simplified_EEG_Brain-Computer_Interface)
+
+          *Katarzyna Bialas, Michal Kedziora, Rafal Chalupnik, Houbing Herbert Song*
+      - layout: left
         title: The 36th International Conference on Advanced Information Networking and Applications
         caption: 2022
         sub_title: Sydney, Australia
@@ -172,7 +181,7 @@ content:
 
           *Rafal Chalupnik, Katarzyna Bialas, Ireneusz Jozwiak, Michal Kedziora*
       - layout: left
-        title: DepCoS Conference
+        title: 14th International Conference on Dependability of Computer Systems
         caption: 2019
         sub_title: Brunow, Poland
         # quote: >
