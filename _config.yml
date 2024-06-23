@@ -152,6 +152,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: The 36th International Conference on Advanced Information Networking and Applications
+        caption: 2022
+        sub_title: Sydney, Australia
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          [**Using Simplified EEG-Based Brain Computer Interface and Decision Tree Classifier for Emotions Detection**](https://www.researchgate.net/publication/359598359_Using_Simplified_EEG-Based_Brain_Computer_Interface_and_Decision_Tree_Classifier_for_Emotions_Detection)
+
+          *Rafal Chalupnik, Katarzyna Bialas, Zofia Majewska, Michal Kedziora*
+      - layout: left
         title: The 14th International Conference on Advances in Computer-Human Interactions
         caption: 2021
         sub_title: Nice, France
