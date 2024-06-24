@@ -50,7 +50,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   **TODO: Write something more**
 
-  I am most skilled in <mark>C#/.NET</mark> and <mark>Software Architecture</mark>.
+  Technical skills:
+  <mark>C#/.NET</mark> <mark>Software Architecture</mark> <mark>Git/TFVC</mark> <mark>AWS/Azure</mark> <mark>Jira/Azure DevOps</mark> <mark>TeamCity/Azure Pipelines</mark> <mark>Oracle/SQL Server/PostgreSQL</mark> <mark>React/Vue.js</mark> <mark>Swift</mark>
 
 content:
   # - title: Projects # Title for the section
