@@ -48,6 +48,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rafał and I'm a senior backend developer.
 
+  <br/>
+
   Technical skills:
 
   <mark>C#/.NET</mark> <mark>Software Architecture</mark> <mark>Git/TFVC</mark> <mark>AWS/Azure</mark> <mark>Jira/Azure DevOps</mark> <mark>TeamCity/Azure Pipelines</mark> <mark>Oracle/SQL Server/PostgreSQL</mark> <mark>React/Vue.js</mark> <mark>Swift</mark>
@@ -92,7 +94,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            *Job description coming soon!*
+            The company is delivering complex all-in-one hotel management software for hotels around the world. My responsibility is to make sure other hotel-related sites can reliably integrate with our software, thus extending the reach of hotel chains to potential customers.
       - layout: left
         title: Titian Software
         # link: boringcompany.com
@@ -102,7 +104,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I've been promoted to the Senior Software Engineer role. The scope of my responsibilities is the same, with addition of tech lead role in projects and more software architecture design involvement.
+            I've been promoted to the Senior Software Engineer role. The scope of my responsibilities was the same, with addition of tech lead role in projects and more software architecture design involvement.
       - layout: left
         title: Titian Software
         # link: boringcompany.com
