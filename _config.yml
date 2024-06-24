@@ -28,11 +28,11 @@ linkedin_username: rafal-chalupnik
 orcid_username: 0000-0003-4678-0842
 
 # Additional icon links
-additional_links:
-- title: Google Scholar
-  icon: fa-brands fa-google-scholar
-  # icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-  url: https://scholar.google.com/citations?hl=en&user=hfn1dPQAAAAJ
+# additional_links:
+# - title: Google Scholar
+#   icon: fa-brands fa-google-scholar
+#   # icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: https://scholar.google.com/citations?hl=en&user=hfn1dPQAAAAJ
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
