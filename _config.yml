@@ -48,10 +48,17 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rafał and I'm a senior backend developer.
 
-  **TODO: Write something more**
-
   Technical skills:
+
   <mark>C#/.NET</mark> <mark>Software Architecture</mark> <mark>Git/TFVC</mark> <mark>AWS/Azure</mark> <mark>Jira/Azure DevOps</mark> <mark>TeamCity/Azure Pipelines</mark> <mark>Oracle/SQL Server/PostgreSQL</mark> <mark>React/Vue.js</mark> <mark>Swift</mark>
+
+  Soft skills:
+
+  <mark>Willingness to learn</mark> <mark>Problem analysis & solving</mark> <mark>Teamwork</mark> <mark>Technical leadership</mark> <mark>Recruitment</mark>
+
+  Languages:
+
+  <mark>Polish (native)</mark> <mark>English (C1)</mark> <mark>Spanish (A1)</mark>
 
 content:
   # - title: Projects # Title for the section
