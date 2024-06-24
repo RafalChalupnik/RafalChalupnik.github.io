@@ -46,7 +46,7 @@ orcid_username: 0000-0003-4678-0842
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rafał and I'm a senior backend developer.
+  Senior .NET developer with over five years of experience. Passionate about exploring new skills and technologies, with positive attitude and a strong willingness to learn and self-improve.
 
   <br/>
 
@@ -216,8 +216,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Computers (who would have guessed?)
+      Alongside my interests in software engineering some of my other interests and hobbies are:
       - Photography
       - Automotive
       - Music
