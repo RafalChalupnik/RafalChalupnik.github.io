@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Rafał Chałupnik
-title: Senior Backend Developer & PhD student
+title: Senior Backend Developer
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -44,7 +44,7 @@ orcid_username: 0000-0003-4678-0842
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Senior .NET developer with over five years of experience. Passionate about exploring new skills and technologies, with positive attitude and a strong willingness to learn and self-improve.
+  Senior .NET developer with over six years of experience. Passionate about exploring new skills and technologies, with positive attitude and a strong willingness to learn and self-improve.
 
   <br/>
 
@@ -127,16 +127,6 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: PhD Information and Communication Technology
-        # caption: October 2020 - Present
-        # sub_title: PhD Information and Communication Technology
-        # quote: >
-        #   October 2020 - Present
-        description: | # this will include new lines to allow paragraphs
-          Wroclaw University of Science and Technology
-
-          *October 2020 - Present*
       - layout: left
         title: MSc Computer Systems Design
         # caption: October 2020 - Present
