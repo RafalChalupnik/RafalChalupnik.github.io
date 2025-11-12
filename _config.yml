@@ -44,7 +44,7 @@ orcid_username: 0000-0003-4678-0842
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Senior .NET developer with over six years of experience. Passionate about exploring new skills and technologies, with positive attitude and a strong willingness to learn and self-improve.
+  Senior .NET Developer with 6+ years of experience designing and delivering high-quality backend systems and integrations. Strong technical ownership, proven expertise in system architecture, and experience facilitating agile teams. Passionate about building reliable, scalable software, mentoring colleagues, and growing into engineering leadership roles.
 
   <br/>
 
@@ -92,10 +92,10 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Building and evolving distributed Daylight PMS and REST APIs in .NET, enabling seamless integrations between PMS and external hotel partners
-            - Designing and delivering scalable microservices leveraging Kafka for event-driven communication and AWS for cloud deployment
-            - Driving code quality and engineering standards through in-depth reviews, refactoring initiatives, and knowledge-sharing within the team
-            - Taking ownership of complex integrations and greenfield services — translating unclear or shifting business requirements into reliable, production-grade solutions
+            - Build and improve distributed Daylight PMS and REST APIs in .NET, enabling seamless integrations between PMS and external hotel partners
+            - Design and deliver scalable microservices leveraging Kafka for event-driven communication and AWS for cloud deployment
+            - Drive code quality and engineering standards through in-depth reviews, refactoring initiatives, and knowledge-sharing within the team
+            - Take ownership of complex integrations and greenfield projects, translating ambiguous business requirements into production-ready solutions.
       - layout: left
         title: Titian Software
         # link: boringcompany.com
@@ -107,7 +107,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             - Acted as technical lead and Scrum Master for a cross-functional team enhancing Titian’s Mosaic sample management platform used by top Big Pharma companies
             - Designed and evolved architecture and REST APIs, improving reliability, scalability, and interoperability with third-party vendor systems
-            - Led key modernization initiatives, including migration from TFVC to Git and Bugzilla to Azure DevOps, establishing new workflows, branching strategies, and automation pipelines
+            - Led key modernization initiatives, including migration from **TFVC to Git** and **Bugzilla to Azure DevOps**, establishing new workflows, branching strategies, and automation pipelines
             - Championed code quality and engineering best practices, conducting in-depth reviews, mentoring developers, and introducing .NET features to improve maintainability
             - Drove process and delivery improvements in CI/CD and agile practices, working closely with QA, DevOps, and product management to increase deployment confidence and delivery cadence
             - Served as a technical reference point company-wide, advising teams on integration design, API development, and debugging complex production issues
@@ -123,7 +123,6 @@ content:
             - Designed and implemented interfaces with external vendor systems, ensuring stable data exchange and system compatibility across distributed environments
             - Collaborated with QA and product teams to deliver reliable solutions within agile sprints
             - Participated in technical recruitment and internal IT support, contributing to infrastructure reliability and onboarding improvements
-            - Included in the technical evaluation in the recruitment process and slightly engaged in company's IT administration
       - layout: left
         title: KRD BIG S.A.
         # link: boringcompany.com
@@ -165,15 +164,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 14th Asian Conference on Intelligent Information and Database Systems
-        caption: 2022
-        sub_title: Ho Chi Minh City, Vietnam
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          [**Using Brain-Computer Interface (BCI) and Artificial Intelligence for EEG Signal Analysis**](https://www.researchgate.net/publication/365678701_Using_Brain-Computer_Interface_BCI_and_Artificial_Intelligence_for_EEG_Signal_Analysis)
-
-          *Jakub Kurczak, Katarzyna Bialas, Rafal Chalupnik, Michal Kedziora*
+        title: Co-author of multiple articles and conference papers on Brain-Computer Interfaces and AI-based signal analysis
+        quote: Test
+      # TODO: Newer pubs (ECAI?)
       - layout: left
         title: IEEE Transactions on Human-Machine Systems
         caption: 2022
@@ -193,35 +186,6 @@ content:
           [**Using Simplified EEG-Based Brain Computer Interface and Decision Tree Classifier for Emotions Detection**](https://www.researchgate.net/publication/359598359_Using_Simplified_EEG-Based_Brain_Computer_Interface_and_Decision_Tree_Classifier_for_Emotions_Detection)
 
           *Rafal Chalupnik, Katarzyna Bialas, Zofia Majewska, Michal Kedziora*
-      - layout: left
-        title: The 14th International Conference on Advances in Computer-Human Interactions
-        caption: 2021
-        sub_title: Nice, France
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          [**Acquiring and Processing Data Using Simplified EEG-based Brain-Computer Interface for the Purpose of Detecting Emotions**](https://www.researchgate.net/publication/353935137_Acquiring_and_Processing_Data_Using_Simplified_EEG-based_Brain-Computer_Interface_for_the_Purpose_of_Detecting_Emotions)
-
-          *Rafal Chalupnik, Katarzyna Bialas, Ireneusz Jozwiak, Michal Kedziora*
-      - layout: left
-        title: 14th International Conference on Dependability of Computer Systems
-        caption: 2019
-        sub_title: Brunow, Poland
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          [**Correspondent Sensitive Encryption Standard (CSES) Algorithm in Insecure Communcation Channel**](https://www.researchgate.net/publication/333039085_Correspondent_Sensitive_Encryption_Standard_CSES_Algorithm_in_Insecure_Communication_Channel)
-
-          *Rafal Chalupnik, Michal Kedziora, Piotr Jozwiak, Ireneusz Jozwiak*
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering some of my other interests and hobbies are:
-      - Photography
-      - Automotive
-      - Music
-      - Travelling
 
 # Footer
 # footer_show_references: true
