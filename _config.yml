@@ -160,8 +160,7 @@ content:
 
           *October 2015 - January 2019*
 
-  - title: Publications # Title for the section
-    sub_title: Test subtitle
+  - title: Publications<br/>_Subtitle?_ # Title for the section
     layout: list # Type of content section (list/text)
     # Co-author of multiple articles and conference papers on Brain-Computer Interfaces and AI-based signal analysis
     content:
