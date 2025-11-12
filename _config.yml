@@ -92,7 +92,10 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            The company is delivering complex all-in-one hotel management software for hotels around the world. My responsibility is to make sure other hotel-related sites can reliably integrate with our software, thus extending the reach of hotel chains to potential customers.
+            - Building and evolving distributed Daylight PMS and REST APIs in .NET, enabling seamless integrations between PMS and external hotel partners
+            - Designing and delivering scalable microservices leveraging Kafka for event-driven communication and AWS for cloud deployment
+            - Driving code quality and engineering standards through in-depth reviews, refactoring initiatives, and knowledge-sharing within the team
+            - Taking ownership of complex integrations and greenfield services — translating unclear or shifting business requirements into reliable, production-grade solutions
       - layout: left
         title: Titian Software
         # link: boringcompany.com
@@ -102,7 +105,12 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I've been promoted to the Senior Software Engineer role. The scope of my responsibilities was the same, with addition of tech lead role in projects and more software architecture design involvement.
+            - Acted as technical lead and Scrum Master for a cross-functional team enhancing Titian’s Mosaic sample management platform used by top Big Pharma companies
+            - Designed and evolved architecture and REST APIs, improving reliability, scalability, and interoperability with third-party vendor systems
+            - Led key modernization initiatives, including migration from TFVC to Git and Bugzilla to Azure DevOps, establishing new workflows, branching strategies, and automation pipelines
+            - Championed code quality and engineering best practices, conducting in-depth reviews, mentoring developers, and introducing .NET features to improve maintainability
+            - Drove process and delivery improvements in CI/CD and agile practices, working closely with QA, DevOps, and product management to increase deployment confidence and delivery cadence
+            - Served as a technical reference point company-wide, advising teams on integration design, API development, and debugging complex production issues
       - layout: left
         title: Titian Software
         # link: boringcompany.com
@@ -112,7 +120,10 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            The company is delivering sample management software to the biggest pharmaceutical companies in the world. I was responsible for development and maintenance of the software, especially in terms of system integration (integration with vendors + developing REST APIs). Also, I've been responsible for the technical evaluation in the recruitment process and slightly engaged in company's IT administration.
+            - Designed and implemented interfaces with external vendor systems, ensuring stable data exchange and system compatibility across distributed environments
+            - Collaborated with QA and product teams to deliver reliable solutions within agile sprints
+            - Participated in technical recruitment and internal IT support, contributing to infrastructure reliability and onboarding improvements
+            - Included in the technical evaluation in the recruitment process and slightly engaged in company's IT administration
       - layout: left
         title: KRD BIG S.A.
         # link: boringcompany.com
@@ -122,7 +133,9 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            The company is holding one of the biggest databases containing information about debts and debtors. I was responsible for maintaining and developing SoA applications. This was my first commercial experience during BSc studies and it turned out to be difficult to simultaneously work and study back then.
+            - Contributed to the development and maintenance of service-oriented .NET applications supporting one of Poland’s largest debt and credit information databases
+            - Assisted in implementing backend modules and optimizing existing components to improve performance and maintainability
+            - Gained first hands-on experience with enterprise software delivery, version control, and agile collaboration practices while completing BSc studies
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
