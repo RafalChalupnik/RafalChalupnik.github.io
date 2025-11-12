@@ -160,10 +160,12 @@ content:
 
           *October 2015 - January 2019*
 
-  - title: Publications<br/>_Subtitle?_ # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     # Co-author of multiple articles and conference papers on Brain-Computer Interfaces and AI-based signal analysis
     content:
+      - layout: top
+        title: Normal _italic_
       # TODO: Newer pubs (ECAI?)
       - layout: left
         title: IEEE Transactions on Human-Machine Systems
