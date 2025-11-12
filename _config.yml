@@ -162,10 +162,9 @@ content:
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
+    quote: Test quote
+    # Co-author of multiple articles and conference papers on Brain-Computer Interfaces and AI-based signal analysis
     content:
-      - layout: left
-        title: Co-author of multiple articles and conference papers on Brain-Computer Interfaces and AI-based signal analysis
-        quote: Test
       # TODO: Newer pubs (ECAI?)
       - layout: left
         title: IEEE Transactions on Human-Machine Systems
