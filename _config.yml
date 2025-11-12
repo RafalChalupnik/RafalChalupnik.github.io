@@ -181,8 +181,17 @@ content:
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Co-author of multiple articles and conference papers on Brain-Computer Interfaces and AI-based signal analysis. 
+
           _(full list available on request)_
-      # TODO: Newer pubs (ECAI?)
+      - layout: left
+        title: Emerging Challenges in Intelligent Management Information Systems 
+        caption: 2025
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Towards Intelligent Human-Computer Interfaces: Simplified BCI for Subject Recognition**
+
+          *Rafal Chalupnik, Katarzyna Bialas*
       - layout: left
         title: IEEE Transactions on Human-Machine Systems
         caption: 2022
