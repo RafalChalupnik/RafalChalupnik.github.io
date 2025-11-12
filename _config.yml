@@ -161,8 +161,8 @@ content:
           *October 2015 - January 2019*
 
   - title: Publications # Title for the section
+    sub_title: Test subtitle
     layout: list # Type of content section (list/text)
-    quote: Test quote
     # Co-author of multiple articles and conference papers on Brain-Computer Interfaces and AI-based signal analysis
     content:
       # TODO: Newer pubs (ECAI?)
